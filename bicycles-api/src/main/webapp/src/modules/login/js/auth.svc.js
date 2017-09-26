@@ -21,7 +21,7 @@
         };
 
         //Default Roles
-        var roles = {admin:{}};
+        var roles = {admin:{}, user:{}};
         
          
         this.setValues = function (newValues) {
